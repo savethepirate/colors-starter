@@ -62,8 +62,9 @@ footer {
   header {
     background-color: ;
   }
-
+  
   #column-1 {
+    width:100%;
     background-color: rgb(208, 194, 247);
   }
 
@@ -78,7 +79,9 @@ footer {
   footer {
     background-color: ;
   }
-  
+  .col-3{
+    width:50%;
+  }
 }
 
 
@@ -87,8 +90,11 @@ footer {
   header {
     background-color: ;
   }
-
+  .col-3{
+    width:33.33%;
+  }
   #column-1 {
+    width:33.33%;
     background-color: rgb(255, 215, 252);
   }
 
